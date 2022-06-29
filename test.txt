@@ -1,1 +1,3 @@
 verify
+
+test Vali e cel mai tare!
