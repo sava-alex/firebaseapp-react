@@ -1,5 +1,3 @@
 verify
 
-test Vali e cel mai tare!
-
-vali smecher
+Mircea este cel mai tare!
